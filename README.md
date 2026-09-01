@@ -1,6 +1,6 @@
 # Inteligência Preditiva e a Metodologia do Segundo Cérebro
 
-Repositório desenvolvido como parte do projeto prático da **DIO (Digital Innovation One)**, utilizando o **NotebookLM** ([Acesse o Caderno aqui](https://notebook.google.com/notebook/d264345f-1704-4fac-acc9-d1048f810ad4)) como um "Segundo Cérebro" executivo focado em inteligência de mercado, metodologias do Gartner e análise preditiva de tecnologias.
+Repositório desenvolvido como parte do projeto prático da **DIO**, utilizando o **NotebookLM** ([Acesse o Caderno aqui](https://notebook.google.com/notebook/d264345f-1704-4fac-acc9-d1048f810ad4)) como um "Segundo Cérebro" executivo focado em inteligência de mercado, metodologias do Gartner e análise preditiva de tecnologias.
 
 ---
 
@@ -31,10 +31,10 @@ Para alimentar o NotebookLM, foram selecionadas fontes de alto valor técnico e 
 
 Documentação oficial das consultas estratégicas realizadas diretamente no motor do NotebookLM para extração de inteligência preditiva:
 
-* **Consulta 1:** `"Como a metodologia do Gartner transforma dados em insights preditivos?"`
-  * *Resultado Extraído:* O modelo mapeou a transformação em dois eixos: o **Nível Micro (Plataformas e Análise Aumentada)**, integrando Machine Learning, Processamento de Linguagem Natural (PLN) e feedback humano ao Self-Service BI; e o **Nível Macro (Previsão de Tendências)**, utilizando o *Ciclo de Hype* (fases de gatilho até platô de produtividade), o *Quadrante Mágico* (avaliação de fornecedores) e as *Top Trends* estratégicas.
-* **Consulta 2:** `"Discuss what these sources say about Stages Of Maturity, in the larger context of Analytics Maturity Model."`
-  * *Resultado Extraído:* Análise aprofundada do *Analytics Maturity Model (AMM)* dividida em 5-6 estágios (Descritivo, Diagnóstico, Preditivo, Prescritivo e Cognitivo/Autônomo). O caderno detalhou comparativos entre frameworks de mercado (Gartner vs. McKinsey vs. TDWI), alertou sobre os perigos da "Síndrome de Ferramenta Primeiro" (*Maturity Theater*), o gargalo crítico de transição entre o estágio 2 e o 3, e os tetos de maturidade específicos por indústria (SaaS, E-commerce e Setor Financeiro).
+* **Consulta 1:** `"Como a metodologia do Gartner transforma dados em insights preditivos?"
+  * *Resultado Extraído: O modelo mapeou a transformação em dois eixos: o Nível Micro (Plataformas e Análise Aumentada), integrando Machine Learning, Processamento de Linguagem Natural (PLN) e feedback humano ao Self-Service BI; e o Nível Macro (Previsão de Tendências), utilizando o Ciclo de Hype (fases de gatilho até platô de produtividade), o Quadrante Mágico (avaliação de fornecedores) e as Top Trends estratégicas.
+* **Consulta 2:** `"Discuss what these sources say about Stages Of Maturity, in the larger context of Analytics Maturity Model."
+  * *Resultado Extraído: Análise aprofundada do Analytics Maturity Model (AMM) dividida em 5-6 estágios (Descritivo, Diagnóstico, Preditivo, Prescritivo e Cognitivo/Autônomo). O caderno detalhou comparativos entre frameworks de mercado (Gartner vs. McKinsey vs. TDWI), alertou sobre os perigos da "Síndrome de Ferramenta Primeiro" (Maturity Theater), o gargalo crítico de transição entre o estágio 2 e o 3, e os tetos de maturidade específicos por indústria (SaaS, E-commerce e Setor Financeiro).
 
 ---
 
@@ -42,10 +42,10 @@ Documentação oficial das consultas estratégicas realizadas diretamente no mot
 
 ### Resumos Estruturados
 * **O Continuum Analítico e Estágios de Maturidade:**
-  1. *Descritivo ("O que aconteceu?"):* Relatórios históricos e dashboards estáticos. (Gasta-se 80% do tempo preparando dados).
-  2. *Diagnóstico ("Por que aconteceu?"):* Investigação de causas raiz usando correlação e regressão.
-  3. *Preditivo ("O que vai acontecer?"):* Modelos estatísticos e machine learning para antecipar tendências.
-  4. *Prescritivo / Cognitivo ("O que devemos fazer?"):* Otimização automatizada de decisões e IA agindo dentro de *guardrails*.
+  1. *Descritivo ("O que aconteceu?"): Relatórios históricos e dashboards estáticos. (Gasta-se 80% do tempo preparando dados).
+  2. *Diagnóstico ("Por que aconteceu?"): Investigação de causas raiz usando correlação e regressão.
+  3. *Preditivo ("O que vai acontecer?"): Modelos estatísticos e machine learning para antecipar tendências.
+  4. *Prescritivo / Cognitivo ("O que devemos fazer?"): Otimização automatizada de decisões e IA agindo dentro de guardrails.
 * **O Ciclo de Hype (*Hype Cycle*):** Mapeamento do ciclo de vida tecnológico (Gatilho ➔ Pico de Expectativas ➔ Abismo da Desilusão ➔ Rampa de Consolidação ➔ Platô de Produtividade).
 
 ### Glossário de Conceitos Chave
