@@ -1,10 +1,10 @@
-# 🧠 Inteligência Preditiva e a Metodologia do Segundo Cérebro
+#  Inteligência Preditiva e a Metodologia do Segundo Cérebro
 
 Repositório desenvolvido como parte do projeto prático da **DIO (Digital Innovation One)**, utilizando o **NotebookLM** ([Acesse o Caderno aqui](https://notebook.google.com/notebook/d264345f-1704-4fac-acc9-d1048f810ad4)) como um "Segundo Cérebro" executivo focado em inteligência de mercado, metodologias do Gartner e análise preditiva de tecnologias.
 
 ---
 
-## 🎯 1. Contexto e Objetivos
+##  1. Contexto e Objetivos
 
 * **Assunto Escolhido:** Inteligência Preditiva, Análise de Tendências Tecnológicas e Frameworks Estratégicos baseados nas pesquisas do Gartner.
 * **Objetivos de Estudo:**
@@ -14,7 +14,7 @@ Repositório desenvolvido como parte do projeto prático da **DIO (Digital Innov
 
 ---
 
-## 📂 2. Curadoria de Fontes
+##  2. Curadoria de Fontes
 
 Para alimentar o NotebookLM, foram selecionadas fontes de alto valor técnico e estratégico sobre o ecossistema Gartner e modelos de maturidade analítica:
 
@@ -27,7 +27,7 @@ Para alimentar o NotebookLM, foram selecionadas fontes de alto valor técnico e 
 
 ---
 
-## 💡 3. Engenharia de Prompts e "Cicatrizes" (Troubleshooting)
+##  3. Engenharia de Prompts e "Cicatrizes" (Troubleshooting)
 
 Documentação do processo de testes e refinamento de prompts para moldar a inteligência do caderno:
 
@@ -41,9 +41,9 @@ Documentação do processo de testes e refinamento de prompts para moldar a inte
 
 ---
 
-## 📖 4. Miniguia de Estudo (Entrega Final)
+##  4. Miniguia de Estudo (Entrega Final)
 
-### 📌 Resumos Estruturados
+###  Resumos Estruturados
 * **O Ciclo de Hype (*Hype Cycle*):** Metodologia do Gartner que mapeia a maturidade e adoção de tecnologias através de cinco fases:
   1. *Gatilho de Inovação:* Surgimento da inovação.
   2. *Pico de Expectativas Infladas:* Momento de máximo destaque e Hype midiático.
@@ -52,12 +52,12 @@ Documentação do processo de testes e refinamento de prompts para moldar a inte
   5. *Platô de Produtividade:* Adoção generalizada e estabilizada no mercado.
 * **Análise Aumentada (*Augmented Analytics*):** Uso de IA e Machine Learning para automatizar a preparação de dados, exploração visual e geração de insights, integrando Processamento de Linguagem Natural (PLN) ao Self-Service BI.
 
-### 🔤 Glossário de Conceitos Chave
+###  Glossário de Conceitos Chave
 * **Quadrante Mágico (*Magic Quadrant*):** Metodologia que avalia fornecedores de tecnologia em eixos de execução e visão (Líderes, Desafiantes, Visionários e Nichados).
 * **Low-Code:** Abordagem de desenvolvimento ágil com codificação mínima recomendada pelo Gartner para ganho de eficiência corporativa.
 * **Inteligência Preditiva:** Capacidade de antecipar cenários futuros utilizando padrões extraídos de dados históricos e relatórios metodológicos.
 
-### 🛠️ Conjunto de Prompts Reutilizáveis
+###  Conjunto de Prompts Reutilizáveis
 1. **Para Análise de Maturidade de uma Tecnologia:**
    > *"Com base nas fontes sobre o Hype Cycle, em qual estágio você classificaria a tecnologia [Inserir Nome] e quais riscos as empresas correm ao adotá-la na fase de pico de expectativas?"*
 2. **Para Insights de Tendências Futuras:**
