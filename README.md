@@ -1,6 +1,6 @@
 #  Inteligência Preditiva e a Metodologia do Segundo Cérebro
 
-Repositório desenvolvido como parte do projeto prático da **DIO (Digital Innovation One)**, utilizando o **NotebookLM** ([Acesse o Caderno aqui](https://notebook.google.com/notebook/d264345f-1704-4fac-acc9-d1048f810ad4)) como um "Segundo Cérebro" executivo focado em inteligência de mercado, metodologias do Gartner e análise preditiva de tecnologias.
+Repositório desenvolvido como parte do projeto prático da **DIO **, utilizando o **NotebookLM** ([Acesse o Caderno aqui](https://notebook.google.com/notebook/d264345f-1704-4fac-acc9-d1048f810ad4)) como um "Segundo Cérebro" executivo focado em inteligência de mercado, metodologias do Gartner e análise preditiva de tecnologias.
 
 ---
 
